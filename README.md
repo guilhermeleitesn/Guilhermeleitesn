@@ -6,7 +6,7 @@ Sou formado em Administração de Empresas e apaixonado por tecnologia. Atualmen
 Tenho larga experiência nas áreas comercial, hospitalar, logística, energia e estou sempre buscando inovação e eficiência na tomada de decisões baeada em dados. Compartilho insights e aprendizados no meu "[Linkedin](https://www.linkedin.com/in/guilherme-leite-a70a9aa8/)".  Conecte-se comigo!
 
 
-
+---
 ### 💻🔧 Linguagens e Ferramentas
 
 <p align="left">
