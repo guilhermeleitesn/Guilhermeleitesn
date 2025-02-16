@@ -1,10 +1,10 @@
 # 📈 Guilherme Leite 
-
+---
 ## **`Analista de Dados`**
 
 Sou formado em Administração de Empresas e apaixonado por tecnologia. Atualmente, estou me dedicando ao estudo da programação para análise de dados para transformar informações em soluções estratégicas para negócios.
 Tenho larga experiência nas áreas comercial, hospitalar, logística, energia e estou sempre buscando inovação e eficiência na tomada de decisões baeada em dados. Compartilho insights e aprendizados no meu "[Linkedin](https://www.linkedin.com/in/guilherme-leite-a70a9aa8/)".  Conecte-se comigo!
-
+---
 
 ---
 ### 💻🔧 Linguagens e Ferramentas
@@ -17,7 +17,7 @@ Tenho larga experiência nas áreas comercial, hospitalar, logística, energia e
 </p>
 
 <br/>
-
+---
 ### 📊 Estatísticas
 
 
