@@ -1,6 +1,6 @@
 # Guilherme Leite
 
-### Análise de Dados · Business Intelligence · Gestão Administrativa
+### Análise de Dados · Business Intelligence 
 
 **[Conheça meu portfólio](https://guilhermeleitesn.github.io/)** · [LinkedIn](https://www.linkedin.com/in/guilherme-leite-a70a9aa8/) · [E-mail](mailto:guilhermeleite@outlook.com.br)
 
