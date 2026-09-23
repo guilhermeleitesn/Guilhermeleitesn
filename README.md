@@ -1,49 +1,51 @@
-# 📈 Guilherme Leite 
+# Guilherme Leite
 
-## **`Analista de Dados`**
+### Análise de Dados · Business Intelligence · Gestão Administrativa
 
-Sou formado em Administração de Empresas e apaixonado por tecnologia. Atualmente, estou me dedicando ao estudo da programação para análise de dados para transformar informações em soluções estratégicas para negócios.
-Tenho larga experiência nas áreas comercial, hospitalar, logística, energia e estou sempre buscando inovação e eficiência na tomada de decisões baseada em dados. Compartilho insights e aprendizados no meu "[Linkedin](https://www.linkedin.com/in/guilherme-leite-a70a9aa8/)".  Conecte-se comigo!
+**[Conheça meu portfólio](https://guilhermeleitesn.github.io/)** · [LinkedIn](https://www.linkedin.com/in/guilherme-leite-a70a9aa8/) · [E-mail](mailto:guilhermeleite@outlook.com.br)
 
+Sou bacharel em Administração pela **UNINASSAU**, com experiência em operações, gestão administrativa e área comercial. Minha trajetória passa pelos setores hospitalar, de energia, logística e seguros, com atuação no acompanhamento de indicadores, elaboração de relatórios e apoio à tomada de decisão.
 
+Estou aprofundando meus conhecimentos em análise de dados para conectar essa experiência de negócio ao uso de **Excel, Power BI, DAX, SQL e Python**. Neste GitHub, vou documentar estudos e projetos, apresentando o contexto de cada problema, o processo de análise e os resultados.
 
-### 💻🔧 Linguagens e Ferramentas
+📍 Recife, Pernambuco, Brasil
 
-<p align="left">
-<img src="https://camo.githubusercontent.com/19322abab195831cf5b13529f15c719f50a615605217120704bf9bed343e82ca/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33342f4d6963726f736f66745f4f66666963655f457863656c5f2532383230313925453225383025393370726573656e742532392e7376672f35313270782d4d6963726f736f66745f4f66666963655f457863656c5f2532383230313925453225383025393370726573656e742532392e7376672e706e67" alt="Excel" width="30"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/>
-</p>
+## Experiência que levo para os dados
 
-<br/>
+- **Ultragaz — Gestão de ativos:** elaboração e acompanhamento de relatórios e indicadores operacionais com Excel e Power BI; monitoramento de desempenho e SLA; controle de ativos, estoques e logística reversa, com uso de IBM Máximo e Salesforce.
+- **Mantis — Projetos e Instalações — Assistente de supervisor:** análise de indicadores operacionais, relatórios gerenciais, apresentação de resultados e acompanhamento de planos de ação, além de planejamento de operações e liderança de equipe.
+- **Hospital Unimed Recife III — Analista administrativo:** acompanhamento da taxa de ocupação e de indicadores hospitalares com BI e Excel, apoiando a gestão de leitos e as decisões da supervisão.
+- **Real Seguro Viagem — Assistente de vendas:** atendimento consultivo, acompanhamento de oportunidades no CRM e follow-ups ao longo do funil comercial.
 
-### 📊 Estatísticas
+Essas experiências orientam meu interesse por análises que ajudem a entender o desempenho de operações, identificar desvios e apoiar melhorias nos processos.
 
+## Tecnologias e foco de desenvolvimento
 
- 
- <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermeleitesn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+| Ferramenta | Foco |
+| --- | --- |
+| **Excel** | Controles, organização de dados e relatórios gerenciais |
+| **Power BI e DAX** | Visualização de dados, indicadores e aprofundamento em medidas |
+| **SQL** | Estudos de consultas e análise de bases de dados |
+| **Python** | Estudos de programação aplicada à análise de dados |
+| **Git e GitHub** | Versionamento e documentação dos estudos e projetos |
 
- <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeleitesn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
-/>
+## Portfólio
 
-       
+Meu portfólio está em construção e já conta com uma estrutura para receber projetos em **Python, SQL e Power BI**.
 
+**[Acesse o portfólio de Análise de Dados →](https://guilhermeleitesn.github.io/)**
 
+Os próximos projetos serão organizados com pergunta de negócio, fonte dos dados, metodologia, resultados e limitações. Os espaços marcados como **“Em breve”** ainda não representam projetos concluídos.
 
+## Formação e aprendizado
 
+- **Bacharelado em Administração — UNINASSAU.**
+- Estudos em Análise de Dados pela **Alura**.
+- **Python para Data Science: primeiros passos** — Alura, julho de 2025.
+- **Git e GitHub: compartilhando e colaborando em projetos** — Alura, fevereiro de 2025.
 
+## Vamos conversar?
 
+Tenho interesse em trocar experiências sobre análise de dados, indicadores, processos administrativos e inteligência de negócios.
 
-
-
-
+[LinkedIn](https://www.linkedin.com/in/guilherme-leite-a70a9aa8/) · [guilhermeleite@outlook.com.br](mailto:guilhermeleite@outlook.com.br)
